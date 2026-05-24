@@ -8,7 +8,7 @@ Sistem pengenalan wajah berbasis web menggunakan Streamlit. Proyek ini mengimple
 
 ---
 
-### Persyaratan Sistem (Prerequisites)
+### Persyaratan Sistem
 Pastikan Python sudah terinstal di komputer Anda. Anda sangat disarankan menggunakan Virtual Environment (`.venv`). Berikut adalah library yang dibutuhkan untuk menjalankan program ini:
 * `streamlit`
 * `opencv-python`
