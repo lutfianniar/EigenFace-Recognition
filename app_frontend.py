@@ -13,7 +13,6 @@ if "is_trained" not in st.session_state:
     st.session_state.is_trained = False
 
 st.title("Face Recognition System")
-st.subheader("Implementasi Nilai Eigen & Jarak Euclidean untuk Pencocokan Wajah")
 st.markdown("---")
 
 col_controls, col_test_view, col_result_view = st.columns([1, 1.2, 1.2])
